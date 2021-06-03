@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ordered by the Lords and Commons assembled in Parliament, that all committees of sequestrations in the severall counties of England and Wales, do take care that all sequestrated lands in the severall counties be improved to the utmost values</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22060</idno><idno type="EEBO-CITATION">31355646</idno>
+  <idno type="VID">205843</idno>
+  <idno type="EEBO-PROQUEST">2240897430</idno>
+  
+            <idno type="STC">Wing E1733A</idno>
+            <idno type="OCLC">31355646</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205843)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1738:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ordered by the Lords and Commons assembled in Parliament, that all committees of sequestrations in the severall counties of England and Wales, do take care that all sequestrated lands in the severall counties be improved to the utmost values</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for John Wright ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of sheet: Die Veneris, 17 Decemb. 1647.</note>
+                  <note>Includes the parliamentary orders dated, Die MArtis, 10 Novemb. 1646, and Die Martis 8 Decemb. 1646.</note>
+                  <note>Title from first four lines of text.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Attachment and garnishment --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205843:1"/>
+            <div type="part">
+               <head>
+                  <hi>Die Veneris,</hi> 17 <hi>Decemb.</hi> 1647.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Rdered by the Lords and Commons assembled in Parliament, That all Commit<g ref="char:EOLhyphen"/>tees of Sequestrations in the severall Counties of <hi>England</hi> and <hi>Wales,</hi> do take care that all sequestrated Lands in the said severall Counties be improved to the utmost values; and that they put in execution the former Orders made by both or either of the Houses of Parliament concerning the same; and that they spee<g ref="char:EOLhyphen"/>dily deliver in an Accompt of all the sequestred Lands and Goods within the said Counties, and what hath been made thereof, and how the same have been disposed, according to the Ordinances made for Accompts unto the severall Sub-Committees of Accompts in the said severall Counties, before the first day of March next ensuing, or otherwise deliver in all their Accompts aforesaid unto the Committee for taking the Accompts of the whole Kingdom, before the five and twenty day of March next coming.</p>
+               <closer>
+                  <signed>Joh. Brown Cler. Parliament.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Die Martis,</hi> 10 <hi>Novemb.</hi> 1646. Severall VOTES of the COMMONS assembled in PARLIAMENT, concerning Delinquents.</head>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> THat the Committee of Sequestrations in the severall Counties, do return to the Committee at Goldsmiths Hall, all the names of Papists and Delinquents, which are or have been se<g ref="char:EOLhyphen"/>questred by them respectively in their severall Counties; and a particular List of all the Estates of such persons, and to whom they have been let during the Sequestration thereof, and what the values thereof were before the Warre.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> THat the Estates reall and personall of all Papists and Delinquents within the Ordinances of Sequestrations, not yet sequestred, and not compounded for at Goldsmiths Hall, be speedily sequestred, and the Names of such Delinquents sent up to the Committee at Goldsmiths Hall.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> THat the Lands and Estates of such persons as are excepted in the first three qualifications of the Propositions, or any part thereof; shall not be let or demised to the Owners thereof, or to their Bailiffs or Servants, or to any person or persons in trust for them, or to their use or behoof.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> THat the Lands and Estates of other Delinquents capable to be admitted to Composition, se<g ref="char:EOLhyphen"/>questred, or which shall be sequestred, in the severall respective Counties, or any part there<g ref="char:EOLhyphen"/>of, shall not in any case be let or demised unto the Owners thereof, or to their Bailiffs or Servants, or to any other persons in trust for them, or to their use or behoof, unlesse such Delinquents shall by Certificate from the Committee at Goldsmiths Hall make it appear, that they are in their actu<g ref="char:EOLhyphen"/>all prosecution of their Compositions, and do proceed therein without delay on their parts.</p>
+               <closer>
+                  <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Die Martis</hi> 8 <hi>Decemb.</hi> 1646.</head>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> THat no Committee man, Sequestrator, Collector or other Officer imployed in the Sequestra<g ref="char:EOLhyphen"/>tions in the severall respective Counties, shall by himself, or any other in trust for him, or to his use, take to Farm or Rent, any Lands or Estates sequestred, or to be sequestred in the said severall Counties where he is a Committee-man, Sequestrator, Collector, or other Officer im<g ref="char:EOLhyphen"/>ployed in the Sequestrations as aforesaid.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> THat all the Lands and Estates of Papists and Delinquents sequestred, and to be sequestred in the severall and respective Counties, shall be let out at the utmost improved yeerly values that any man will give for the same; And that all Leases and Grants made to any Delinquents or Papists, the owners of the said Lands and Estates, or to their Servants, or any in trust for them, at a lower rate and value then the same were truly worth, and might have been demised for to others, at the time the said Lease shall be void.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> THat all persons in the severall and respective Counties who have been in Arms, or left their Habitations, and resided in the Enemies Garrisons, and are liable to Sequestrations, and have not tendred themselves to a Composition for their Estates, and prosecuted it with effect at Gold<g ref="char:EOLhyphen"/>smiths Hall, and are at liberty, and not comprised within any Articles, whereby they are protected, shall be forthwith apprehended and committed to safe custody by the Committee of Parliament residing in the severall Counties, and their names certified to the Committee at Goldsmiths Hall. Provided, That such persons whose Estates reall or personall are not worth two hundred pounds, be hereby pardoned and discharged from Sequestration, they coming in according to the time li<g ref="char:EOLhyphen"/>mited in the Propositions, and taking the negative Oath and Covenant.</p>
+               <closer>
+                  <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> for <hi>John Wright</hi> at the Kings Head in the Old Baily. 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
